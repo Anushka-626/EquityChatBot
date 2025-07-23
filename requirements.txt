@@ -1,0 +1,8 @@
+
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+newspaper3k
+langchain
+torch  # Make sure PyTorch is installed (CUDA if needed)
